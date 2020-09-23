@@ -1,0 +1,7 @@
+D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\bin\Debug\DesafioOperacion.exe.config
+D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\bin\Debug\DesafioOperacion.exe
+D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\bin\Debug\DesafioOperacion.pdb
+D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.csprojAssemblyReference.cache
+D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.csproj.CoreCompileInputs.cache
+D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.exe
+D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.pdb
