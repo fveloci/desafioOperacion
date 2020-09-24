@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace DesafioOperacion
 {
-    class Operacion
+    static class Operacion
     {
-        public static void sumar(int num1, int num2)
+        public static int sumar(int num1, int num2)
         {
-            Console.WriteLine("{0} + {1} = {2}",num1, num2,num1 + num2);
+            return (num1 + num2);
         }
-        public static void restar(int num1, int num2)
+
+        public static int restar(int num1, int num2)
         {
-            Console.WriteLine("{0} - {1} = {2}",num1,num2,num1 - num2);
+            return (num1 - num2);
         }
     }
 }

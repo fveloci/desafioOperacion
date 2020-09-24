@@ -10,19 +10,20 @@ namespace DesafioOperacion
     {
         static void Main(string[] args)
         {
+            int num1, num2;
+
             try
             {
-                Console.WriteLine("Ingrese un primer numero:");
-                int num1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Ingrese un primer numero: ");
+                num1 = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Ingrese un segundo numero:");
-                int num2 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Ingrese un segundo numero: ");
+                num2 = Convert.ToInt32(Console.ReadLine());
 
-                Operacion.sumar(num1,num2);
-                Operacion.restar(num1,num2);
+                Console.WriteLine("\nSuma: " + Operacion.sumar(num1, num2));
+                Console.WriteLine("Resta: " + Operacion.restar(num1, num2));
 
-
-                Console.WriteLine("Toque cualquier tecla para finalizar...");
+                Console.WriteLine("\nToque cualquier tecla para finalizar...");
                 Console.ReadKey();
             }
             catch(Exception e)

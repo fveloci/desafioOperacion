@@ -5,3 +5,9 @@ D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\obj\Debug\DesafioOpe
 D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.csproj.CoreCompileInputs.cache
 D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.exe
 D:\Franco\PROGRAMACION\C#\DesafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioOperacion\desafioOperacion\DesafioOperacion\bin\Debug\DesafioOperacion.exe.config
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioOperacion\desafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioOperacion\desafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioOperacion\desafioOperacion\DesafioOperacion\bin\Debug\DesafioOperacion.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioOperacion\desafioOperacion\DesafioOperacion\bin\Debug\DesafioOperacion.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioOperacion\desafioOperacion\DesafioOperacion\obj\Debug\DesafioOperacion.csprojResolveAssemblyReference.cache
